@@ -14,10 +14,12 @@
 - 1-Level Undo: Preserves previous image state for restoration.
 - Image sharpening: Applies  3 × 3 neighborhood method, multiply each neighboring pixel value by the corresponding kernel value, and                       add the results to obtain  new pixel value. The resulting RGB values range between 0 to 255.
 
+---
 #Required File Structure :
 
 Ensure the folder layout strictly matches the following structure so Makefile can locate the library dependencies:
-‘''
+
+```
 Project_Folder/
 ├── main.c
 ├── gui.c / gui.h
@@ -31,9 +33,10 @@ Project_Folder/
         ├── Mac/
         │   └── libiup.a
         └── Linux/
-            └── libiup.a
-‘''
+            └── libiup.a            
+```
 
+---
 
  #Supported Image Format:   
   This program only supports 24-bit uncompressed standard RGB file. PNG,JPEG,GIF are not supported here.
