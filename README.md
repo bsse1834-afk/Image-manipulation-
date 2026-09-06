@@ -21,7 +21,8 @@
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/a6d9de8f-b1fb-430b-986f-7c38f85edb43" />
 
 **90° rotation applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/463482c1-0f18-488c-9563-69a0700c6087" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/40a1f69d-3d8a-4f9d-9b6f-e3bac0fea383" />
+
 
 **Crop applied**
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 54 PM" src="https://github.com/user-attachments/assets/3131b1f4-15f0-4795-9aa8-6c2d8c6379ce" />
@@ -30,10 +31,11 @@
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 07 PM" src="https://github.com/user-attachments/assets/9c4a5f16-6730-40af-8d6b-c59525795169" />
 
 **Sharpening applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 29 PM" src="https://github.com/user-attachments/assets/7daedf07-c700-4d76-9e71-d62461122183" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 02 PM" src="https://github.com/user-attachments/assets/6f268ab6-2d36-49b2-b664-fab39b0f6b9f" />
+
 
 **Save image**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 12 17 46 AM" src="https://github.com/user-attachments/assets/6105072b-e940-4ab7-8464-5eb1bffab3c9" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 29 PM" src="https://github.com/user-attachments/assets/51d33cb2-20b7-426e-8fcf-2aba7d046060" />
 
 
 #Features :
