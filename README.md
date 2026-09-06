@@ -22,7 +22,7 @@
 
 
 **90° rotation applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/40a1f69d-3d8a-4f9d-9b6f-e3bac0fea383" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 6 52 29 PM" src="https://github.com/user-attachments/assets/6f64f6f8-c8f0-4008-8e54-1abe2d3d1cfc" />
 
 
 **Crop applied**
@@ -32,7 +32,7 @@
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 07 PM" src="https://github.com/user-attachments/assets/9c4a5f16-6730-40af-8d6b-c59525795169" />
 
 **Sharpening applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 02 PM" src="https://github.com/user-attachments/assets/6f268ab6-2d36-49b2-b664-fab39b0f6b9f" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 6 52 04 PM" src="https://github.com/user-attachments/assets/94ad1a6d-900a-4802-81d0-6488ae56390f" />
 
 
 **Save image**
