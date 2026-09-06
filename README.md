@@ -2,6 +2,10 @@
 **CSE-1101L final project**
 **This is an image manipulation software**
 
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 53 PM" src="https://github.com/user-attachments/assets/19b93882-c955-4baa-8531-5cd6c5e5c418" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 44 PM" src="https://github.com/user-attachments/assets/ff8a5170-0cf3-451a-9436-f6a67f0d533e" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 31 PM" src="https://github.com/user-attachments/assets/bbae02c8-6023-499b-951b-038ffe6f7d69" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 14 PM" src="https://github.com/user-attachments/assets/4db3ad5c-6429-4ef0-b09b-c8555080c55f" />
 
 #Features :
 - Open & Save BMP: Supports loading and saving 24-bit uncompressed .bmp files via IUP file dialogs.
