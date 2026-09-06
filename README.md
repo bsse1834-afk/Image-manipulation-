@@ -2,7 +2,7 @@
 **CSE-1101L final project**
 **This is an image manipulation software**
 
-#Featurs
+#Features :
 - Open & Save BMP: Supports loading and saving 24-bit uncompressed .bmp files via IUP file dialogs.
 - Grayscale Conversion: Converts color images to grayscale using weighted RGB intensity (0.299R + 0.587G + 0.114B).
 - Brightness Adjustment: Adjusts image brightness with user inputs bounded between -255 and 255.
@@ -14,7 +14,7 @@
 - 1-Level Undo: Preserves previous image state for restoration.
 - Image sharpening: Applies  3 × 3 neighborhood method, multiply each neighboring pixel value by the corresponding kernel value, and                       add the results to obtain  new pixel value. The resulting RGB values range between 0 to 255.
 
-#Required File Structure
+#Required File Structure :
 
 Ensure the folder layout strictly matches the following structure so Makefile can locate the library dependencies:
 
@@ -36,7 +36,7 @@ Project_Folder/
  #Supported Image Format:   
   This program only supports 24-bit uncompressed standard RGB file. PNG,JPEG,GIF are not supported here.
 
- #Prerequisites & Dependencies:
+ #Prerequisites & Dependencies :
 
  1. macOS
 
@@ -48,7 +48,7 @@ Project_Folder/
 
  2. Linux
 
- - Ubuntu / Debian / Linux Mint:
+ - Ubuntu / Debian / Linux Mint
 
   sudo apt update
   sudo apt install -y build-essential libgtk-3-dev pkg-config
@@ -59,7 +59,7 @@ Project_Folder/
 
   sudo pacman -S --noconfirm base-devel gtk3 pkgconf
 
- #IUP Library Setup (iup.zip)
+ #IUP Library Setup (iup.zip) :
 
   Unzip iup.zip inside your main project folder.
   Nested Folder Fix: Unzipping sometimes creates a nested folder structure like iup/iup/. If this happens:
@@ -68,7 +68,7 @@ Project_Folder/
   Delete the remaining empty inner folder and iup.zip.
   Ensure the final relative path is iup/include and iup/lib.
 
- #Manual Execution Instructions
+ #Manual Execution Instructions :
 
   Download and extract the project .zip file manually.
   Complete the IUP Library Setup step above.
@@ -76,10 +76,13 @@ Project_Folder/
   cd path/to/project_folder
   Compile the project using make:
   make
-  Run the executable:
-  ./image_editor                   
+ #Run the executable :
+ 
+  ./image_editor   
   Clean up temporary build files (Optional):
   make clean
 
-#Notes
+ #Notes :
+
+ 
   Here the given iup.zip file is developed only for macOS. For other operating system, you have to download the specialized iup file     for your specific operating system.
