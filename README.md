@@ -33,6 +33,8 @@ Project_Folder/
         └── Linux/
             └── libiup.a
 ‘''
+
+
  #Supported Image Format:   
   This program only supports 24-bit uncompressed standard RGB file. PNG,JPEG,GIF are not supported here.
 
