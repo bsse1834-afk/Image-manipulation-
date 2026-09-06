@@ -3,31 +3,6 @@
 **This is an image manipulation software**
 
 
-##Screenshots
-**Image open(/Users/armitasaha/Desktop/blue-bmp-24-bit.bmp)**
-![Open BMP]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.04.14 PM.png')
-**Grayscale applied**
-![Grayscale]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.04.31 PM.png')
-**Brightness adjustment applied**
-![Brightness]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.04.44 PM.png')
-**Invert colors applied**
-![Invert color]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.04.53 PM.png')
-**Horizontal flip applied**
-![Flip Horizontal]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.04.58 PM.png')
-**Vertical flip applied**
-![Flip Vertical]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.05.03 PM.png')
-**90° rotation applied**
-![Rotate 90°]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.05.08 PM.png')
-**Crop applied**
-![Crop Image]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.05.54 PM.png')
-**Blur applied**
-![Blur]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.06.02 PM.png')
-**Sharpening applied**
-![Sharpen]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.06.07 PM.png')
-**Save image**
-![Save BMP]('/Users/armitasaha/Desktop/Final-project/Screenshot/Screenshot 2026-09-06 at 5.06.29 PM.png')
-
-
 #Features :
 - Open & Save BMP: Supports loading and saving 24-bit uncompressed .bmp files via IUP file dialogs.
 - Grayscale Conversion: Converts color images to grayscale using weighted RGB intensity (0.299R + 0.587G + 0.114B).
