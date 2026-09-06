@@ -15,10 +15,11 @@
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 53 PM" src="https://github.com/user-attachments/assets/27240861-24d7-450f-ba60-12d71d25465e" />
 
 **Horizontal flip applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/70d5db6a-64e8-4033-93ac-9153df5952fe" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/a6d9de8f-b1fb-430b-986f-7c38f85edb43" />
 
 **Vertical flip applied**
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/a6d9de8f-b1fb-430b-986f-7c38f85edb43" />
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/36c2943c-cd34-4e4e-95a5-2be7ba8e9b59" />
+
 
 **90° rotation applied**
 <img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/40a1f69d-3d8a-4f9d-9b6f-e3bac0fea383" />
