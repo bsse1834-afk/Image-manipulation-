@@ -2,10 +2,39 @@
 **CSE-1101L final project**
 **This is an image manipulation software**
 
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 53 PM" src="https://github.com/user-attachments/assets/19b93882-c955-4baa-8531-5cd6c5e5c418" />
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 44 PM" src="https://github.com/user-attachments/assets/ff8a5170-0cf3-451a-9436-f6a67f0d533e" />
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 31 PM" src="https://github.com/user-attachments/assets/bbae02c8-6023-499b-951b-038ffe6f7d69" />
-<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 14 PM" src="https://github.com/user-attachments/assets/4db3ad5c-6429-4ef0-b09b-c8555080c55f" />
+**Image open(/Users/armitasaha/Desktop/blue-bmp-24-bit.bmp)**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 14 PM" src="https://github.com/user-attachments/assets/957ca921-4f9a-42d1-8300-5395a3b53f04" />
+
+**Grayscale applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 31 PM" src="https://github.com/user-attachments/assets/be99631f-49b9-4026-afc3-211a3b0b084c" />
+
+**Brightness adjustment applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 44 PM" src="https://github.com/user-attachments/assets/66532a6f-3344-4dea-ac70-054f52f85556" />
+
+**Invert colors applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 04 53 PM" src="https://github.com/user-attachments/assets/27240861-24d7-450f-ba60-12d71d25465e" />
+
+**Horizontal flip applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 03 PM" src="https://github.com/user-attachments/assets/70d5db6a-64e8-4033-93ac-9153df5952fe" />
+
+**Vertical flip applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/a6d9de8f-b1fb-430b-986f-7c38f85edb43" />
+
+**90° rotation applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 08 PM" src="https://github.com/user-attachments/assets/463482c1-0f18-488c-9563-69a0700c6087" />
+
+**Crop applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 05 54 PM" src="https://github.com/user-attachments/assets/3131b1f4-15f0-4795-9aa8-6c2d8c6379ce" />
+
+**Blur applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 07 PM" src="https://github.com/user-attachments/assets/9c4a5f16-6730-40af-8d6b-c59525795169" />
+
+**Sharpening applied**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 5 06 29 PM" src="https://github.com/user-attachments/assets/7daedf07-c700-4d76-9e71-d62461122183" />
+
+**Save image**
+<img width="1470" height="956" alt="Screenshot 2026-09-06 at 12 17 46 AM" src="https://github.com/user-attachments/assets/6105072b-e940-4ab7-8464-5eb1bffab3c9" />
+
 
 #Features :
 - Open & Save BMP: Supports loading and saving 24-bit uncompressed .bmp files via IUP file dialogs.
