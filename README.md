@@ -17,7 +17,7 @@
 #Required File Structure :
 
 Ensure the folder layout strictly matches the following structure so Makefile can locate the library dependencies:
-
+‘''
 Project_Folder/
 ├── main.c
 ├── gui.c / gui.h
@@ -32,7 +32,7 @@ Project_Folder/
         │   └── libiup.a
         └── Linux/
             └── libiup.a
-
+‘''
  #Supported Image Format:   
   This program only supports 24-bit uncompressed standard RGB file. PNG,JPEG,GIF are not supported here.
 
